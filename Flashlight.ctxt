@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=x\ y\ r
+comment1.target=void\ createPortal(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getRadius()
+comment3.params=radius
+comment3.target=void\ setRadius(int)
+comment4.params=
+comment4.target=void\ increaseRadius()
+comment5.params=
+comment5.target=void\ followPlayer()
+comment6.params=
+comment6.target=void\ shrink()
+comment7.params=
+comment7.target=void\ gameover()
+numComments=8

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=up\ down\ left\ right\ row\ col\ hasBattery\ levelUp\ topLeft\ topLeftIn\ topRight\ topRightIn\ botLeft\ botLeftIn\ botRight\ botRightIn
+comment0.target=Square(boolean,\ boolean,\ boolean,\ boolean,\ int,\ int,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+comment1.params=
+comment1.target=void\ act()
+comment10.params=direction
+comment10.target=boolean\ getCornersIn(int)
+comment2.params=row\ col
+comment2.target=Square(int,\ int)
+comment3.params=
+comment3.target=int\ getRow()
+comment4.params=
+comment4.target=int\ getCol()
+comment5.params=
+comment5.target=boolean\ getBattery()
+comment6.params=
+comment6.target=boolean\ getLevel()
+comment7.params=hasBattery
+comment7.target=void\ setBattery(boolean)
+comment8.params=direction
+comment8.target=boolean\ getWalls(int)
+comment9.params=direction
+comment9.target=boolean\ getCorners(int)
+numComments=11
